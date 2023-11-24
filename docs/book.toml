@@ -1,9 +1,0 @@
-[book]
-authors = ["ibnaleem"]
-language = "en"
-multilingual = false
-src = "src"
-title = "Paskell Documentation"
-description = "The official documentation for the Paskell Python package."
-
-
