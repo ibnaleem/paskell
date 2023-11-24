@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/ibnaleem/paskell/blob/main/assets/paskell.png?raw=true">
+    <img src="https://github.com/ibnaleem/paskell/blob/main/docs/paskell.png?raw=true">
 </div>
     
 <p align="center">a Python package that communicates between Python and Haskell</p>
